@@ -1,0 +1,16 @@
+
+{
+    "applinks": {
+        "apps": [],
+         "details": [
+             {
+                 "appID": "542B785993.travel.ozon.app.dev",
+                 "paths": [ "/flight-min-price-redirect/*" ]
+             },
+             {
+                 "appID": "542B785993.travel.ozon.app.dev",
+                 "paths": [ "/flight-min-price-follow/*" ]
+             }
+         ]
+     }
+}
