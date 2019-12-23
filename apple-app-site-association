@@ -5,7 +5,7 @@
          "details": [
              {
                  "appID": "542B785993.travel.ozon.app.dev",
-                 "paths": [ "/flight-min-price-redirect/*" ]
+                 "paths": [ "/flight-min-price-redirect/*", "/flight-test/*" ]
              },
              {
                  "appID": "542B785993.travel.ozon.app.dev",
